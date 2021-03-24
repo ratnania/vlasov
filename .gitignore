@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# virtual env
+.vlasov
+
+# diagnostics
+notebooks/*.txt
