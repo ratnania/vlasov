@@ -4,9 +4,9 @@ This project provides some Vlasov solvers written in Python.
 
 ## Contents
 
-[1. Landau Damping](https://nbviewer.jupyter.org/github/ratnania/vlasov/blob/main/notebooks/BumpOnTail.ipynb)
+[1. Landau Damping](https://nbviewer.jupyter.org/github/ratnania/vlasov/blob/main/notebooks/LandauDamping.ipynb)
 
-[2. Bump on Tail](https://nbviewer.jupyter.org/github/ratnania/vlasov/blob/main/notebooks/LandauDamping.ipynb)
+[2. Bump on Tail](https://nbviewer.jupyter.org/github/ratnania/vlasov/blob/main/notebooks/BumpOnTail.ipynb)
 
 [3. Vlasov Maxwell 1d1v](https://nbviewer.jupyter.org/github/ratnania/vlasov/blob/main/notebooks/VlasovMaxwell1D1V.ipynb)
 
